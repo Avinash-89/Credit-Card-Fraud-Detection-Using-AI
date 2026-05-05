@@ -1,0 +1,6 @@
+﻿"index","trans_date_trans_time","merchant","category","amt","city","state","lat","long","city_pop","job","dob","trans_num","merch_lat","merch_long","is_fraud"
+"0","2019-01-01T00:00:44.000","Heller, Gutmann and Zieme","grocery_pos","107.23","Orient","WA","48.8878","-118.2105","149","Special educational needs teacher","1978-06-21T00:00:00.000","1f76529f8574734946361c461b024d99","49.159047","-118.186462","0"
+"1","2019-01-01T00:00:51.000","Lind-Buckridge","entertainment","220.11","Malad City","ID","42.1808","-112.262","4154","Nature conservation officer","1962-01-19T00:00:00.000","a1a22d70485983eac12b5b88dad1cf95","43.150704","-112.154481","0"
+"2","2019-01-01T00:07:27.000","Kiehn Inc","grocery_pos","96.29","Grenada","CA","41.6125","-122.5258","589","Systems analyst","1945-12-21T00:00:00.000","413636e759663f264aae1819a4d4f231","41.65752","-122.230347","0"
+"3","2019-01-01T00:09:03.000","Beier-Hyatt","shopping_pos","7.77","High Rolls Mountain Park","NM","32.9396","-105.8189","899","Naval architect","1967-08-30T00:00:00.000","8a6293af5ed278dea14448ded2685fea","32.863258","-106.520205","0"
+"4","2019-01-01T00:21:32.000","Bruen-Yost","misc_pos","6.85","Freedom","WY","43.0172","-111.0292","471","Education officer, museum","1967-08-02T00:00:00.000","f3c43d336e92a44fc2fb67058d5949e3","43.753735","-111.454923","0"
